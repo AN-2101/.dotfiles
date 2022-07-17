@@ -1,0 +1,2 @@
+2022/06/05-08:44:05.620 22f7b Creating DB /home/anonymous/.config/Ferdi/Partitions/service-422a1935-b9d1-4476-94f5-be073371c95a/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/06/05-08:44:05.647 22f7b Reusing MANIFEST /home/anonymous/.config/Ferdi/Partitions/service-422a1935-b9d1-4476-94f5-be073371c95a/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001

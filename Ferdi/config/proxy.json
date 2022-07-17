@@ -1,0 +1,23 @@
+{
+  "422a1935-b9d1-4476-94f5-be073371c95a": {
+    "isEnabled": false,
+    "host": "",
+    "port": "",
+    "user": "",
+    "password": ""
+  },
+  "dd411e72-eae4-4374-b761-f96b2b7bd5a4": {
+    "isEnabled": false,
+    "host": "",
+    "port": "",
+    "user": "",
+    "password": ""
+  },
+  "ca2dcfd1-d97f-4520-bcc4-9e4b32d9d877": {
+    "isEnabled": false,
+    "host": "",
+    "port": "",
+    "user": "",
+    "password": ""
+  }
+}

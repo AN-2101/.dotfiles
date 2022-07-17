@@ -1,0 +1,2 @@
+2022/06/05-08:43:44.577 22f7c Creating DB /home/anonymous/.config/Ferdi/Partitions/service-ca2dcfd1-d97f-4520-bcc4-9e4b32d9d877/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb since it was missing.
+2022/06/05-08:43:44.601 22f7c Reusing MANIFEST /home/anonymous/.config/Ferdi/Partitions/service-ca2dcfd1-d97f-4520-bcc4-9e4b32d9d877/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001

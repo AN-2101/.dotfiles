@@ -1,0 +1,18 @@
+00:00:00.493597 VirtualBox GUI VM Selector Window 6.1.32 r149290 linux.amd64 (Jan 13 2022 20:04:37) release log
+00:00:00.493599 Log opened 2022-07-10T01:53:54.079893000Z
+00:00:00.493600 Build Type: release
+00:00:00.493605 OS Product: Linux
+00:00:00.493607 OS Release: 5.16.19-76051619-generic
+00:00:00.493608 OS Version: #202204081339~1649696161~20.04~091f44b-Ubuntu SMP PREEMPT Thu Ap
+00:00:00.493638 DMI Product Name: Latitude E7450
+00:00:00.493649 DMI Product Version: 
+00:00:00.493657 Firmware type: UEFI
+00:00:00.493794 Secure Boot: Disabled
+00:00:00.493839 Host RAM: 15883MB (15.5GB) total, 11361MB (11.0GB) available
+00:00:00.493845 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.493845 Process ID: 88122
+00:00:00.493846 Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.493876 Qt version: 5.12.8
+00:00:00.550462 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.392530 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1366x768
+00:00:01.423786 GUI: UIMediumEnumerator: Medium-enumeration finished!

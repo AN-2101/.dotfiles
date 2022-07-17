@@ -1,0 +1,24 @@
+31:05:06.254599 MainPower Log continuation - Log started 2022-07-14T10:37:20.033357000Z
+31:05:16.235358 MainPower Host resumed: Resumed 0 VMs
+31:17:05.574817 MainPower Host suspending: Paused 0 VMs
+31:17:14.039334 MainPower Host resumed: Resumed 0 VMs
+31:55:06.860884 MainPower Host suspending: Paused 0 VMs
+31:55:17.057586 MainPower Host resumed: Resumed 0 VMs
+32:26:10.554819 MainPower Host suspending: Paused 0 VMs
+32:26:20.519788 MainPower Host resumed: Resumed 0 VMs
+33:15:10.975293 MainPower Host suspending: Paused 0 VMs
+33:15:18.406373 MainPower Host resumed: Resumed 0 VMs
+34:03:30.609026 nspr-4   Saving settings file "/home/anonymous/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+34:03:30.632298 nspr-2   Saving settings file "/home/anonymous/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+34:03:30.653462 nspr-8   Saving settings file "/home/anonymous/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+34:03:36.192885 main     VirtualBox: object deletion starts
+34:03:36.193252 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/anonymous/VirtualBox VMs/Win7/Snapshots/{8742797c-7351-4ccd-9395-87526777faac}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+34:03:36.193289 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/anonymous/VirtualBox VMs/Win7/Snapshots/{3d3fa7b3-9404-407c-ac57-e22511c9595c}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+34:03:36.193301 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/anonymous/VirtualBox VMs/Win7/Win7.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+34:03:36.194902 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/media/anonymous/e5c88b4e-4e43-48d8-8772-b9483d921310/Windows10_VirtualBox/Win10/Win10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+34:03:36.195020 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/anonymous/VirtualBox VMs/Parot_OS/Parot_OS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+34:03:36.200171 main     HostDnsMonitor: shutting down ...
+34:03:36.200406 main     HostDnsMonitor: shut down
+34:03:36.264854 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+34:03:41.200805 main     {00007fa18801a5c0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+34:03:41.205161 main     VirtualBox: object deleted
